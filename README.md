@@ -1,4 +1,3 @@
-![Profile Image](https://your-image-url.com/Frame 2 (6).jpg)
 # 👋 Hello, I'm Navawit Nigussie
 
 🎓 Software Engineering Student
@@ -30,8 +29,8 @@ I am passionate about technology, programming, design, and building useful digit
 
 ## 📫 Connect With Me
 
-Telegram
-Instagram
+Telegram:http//t.me/Designer_nava
+Instagram:http//instagram/designer_nava
 LinkedIn
 
 ---

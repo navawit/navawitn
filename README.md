@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student
 📍 Arba Minch University
-💻 Passionate about Technology, Design, and Development
+🎨 Front-end Dev| Graphic Design | Ui/ux Design 
 ---
 
 ## 👨‍💻 About Me

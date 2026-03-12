@@ -7,8 +7,6 @@
 
 ## 👨‍💻 About Me
 
-Hello! My name is Navawit Nigussie, a second-year Software Engineering student at Arba Minch University.
-
 I am passionate about technology, programming, design, and building useful digital products. I focus on Frontend Development, UI/UX Design, and Graphic Design, creating clean, modern, and responsive user interfaces.
 ---
 ## 🛠 Technical Skills
@@ -29,8 +27,8 @@ I am passionate about technology, programming, design, and building useful digit
 
 ## 📫 Connect With Me
 
-Telegram:http//t.me/Designer_nava
-Instagram:http//instagram/designer_nava
+Telegram
+Instagram
 LinkedIn
 
 ---
